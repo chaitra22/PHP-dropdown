@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=David+Libre:wght@500&family=Roboto+Slab:wght@300&display=swap');
+
+table {
+  border-collapse: collapse;
+  width: 10%;
+  font-family: 'Roboto Slab', serif;
+  background-color: rgba(6, 0, 0, 0.50);
+  color:#fff;
+  margin-right:50%:
+}
+
+th, td {
+  padding: 8px;
+  text-align: left;
+  border-bottom: 1px solid #ddd;
+  border-left: 1px solid #ddd;
+    background-color: rgba(6, 0, 0, 0.50);
+	color:#fff;
+}
+
+
